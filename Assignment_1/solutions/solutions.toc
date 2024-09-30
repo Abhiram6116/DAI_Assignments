@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Let’s Gamble}{3}{section.1}%
+\contentsline {section}{\numberline {2}Two Trading Teams}{5}{section.2}%
+\contentsline {section}{\numberline {3}Random Variables}{6}{section.3}%
+\contentsline {section}{\numberline {4}Staff Assistant}{8}{section.4}%
+\contentsline {section}{\numberline {5}Free Trade}{11}{section.5}%
+\contentsline {section}{\numberline {6}Update Functions}{13}{section.6}%
+\contentsline {section}{\numberline {7}Plots}{16}{section.7}%
+\contentsline {section}{\numberline {8}Monalisa}{19}{section.8}%

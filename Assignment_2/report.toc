@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Mathemagic}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Task A}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Task B}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Task C}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Task D}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Task E}{5}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Task F}{6}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Task G}{7}{subsection.1.7}%
+\contentsline {section}{\numberline {2}Normal Sampling}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Task A}{9}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Task B}{10}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Task C}{11}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Task D}{11}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Task E(B)}{12}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Fitting Data}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Task A}{13}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Task B}{14}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Task C}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Task D}{15}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Task E}{16}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Task F}{16}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Quality in Inequalities}{16}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Task A}{17}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Task B}{18}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Task C}{19}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Task D}{20}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Task E}{22}{subsection.4.5}%
+\contentsline {section}{\numberline {5}A Pretty "Normal" Mixture}{24}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Task A}{24}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Task B}{24}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Task C}{26}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Task D(B)}{27}{subsection.5.4}%
