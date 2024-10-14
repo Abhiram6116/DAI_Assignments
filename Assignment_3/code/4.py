@@ -73,18 +73,18 @@ x_test = np.linspace(np.min(x), np.max(x), 100)
 plt.figure(figsize=(10, 8))
 
 # Oversmoothed
-y_oversmooth_gaussian = nadaraya_watson_kernel_regression(x, y, x_test, optimal_h_gaussian * 4, gaussian_kernel)
-plt.subplot(2, 2, 1)
+y_oversmooth_gaussian = nadaraya_watson_kernel_regression(x, y, x_test, optimal_h_gaussian * 3, gaussian_kernel)
+plt.subplot(2, 2, 2)
 plt.scatter(x, y, color='blue',s = 6 ,label='Data')
-plt.plot(x_test, y_oversmooth_gaussian, color='red', label='Oversmoothed (h=optimal_h*4)')
+plt.plot(x_test, y_oversmooth_gaussian, color='red', label='Oversmoothed (h=optimal_h*3)')
 plt.title('Oversmoothed (Gaussian)')
 plt.legend()
 
 # Undersmoothed
-y_undersmooth_gaussian = nadaraya_watson_kernel_regression(x, y, x_test, optimal_h_gaussian / 4, gaussian_kernel)
-plt.subplot(2, 2, 2)
+y_undersmooth_gaussian = nadaraya_watson_kernel_regression(x, y, x_test, optimal_h_gaussian / 3, gaussian_kernel)
+plt.subplot(2, 2, 1)
 plt.scatter(x, y, color='blue',s=6, label='Data')
-plt.plot(x_test, y_undersmooth_gaussian, color='green', label='Undersmoothed (h=optimal_h/4)')
+plt.plot(x_test, y_undersmooth_gaussian, color='green', label='Undersmoothed (h=optimal_h/3)')
 plt.title('Undersmoothed (Gaussian)')
 plt.legend()
 
@@ -107,25 +107,25 @@ plt.legend()
 
 # Save and show plots
 plt.tight_layout()
-plt.savefig('images/gaussian_kernel_regression.png')
+plt.savefig('images\4\gaussian_kernel_regression.png')
 
 
 # Plotting results for Epanechnikov Kernel
 plt.figure(figsize=(10, 8))
 
 # Oversmoothed
-y_oversmooth_epanechnikov = nadaraya_watson_kernel_regression(x, y, x_test, optimal_h_epanechnikov * 4, epanechnikov_kernel)
-plt.subplot(2, 2, 1)
+y_oversmooth_epanechnikov = nadaraya_watson_kernel_regression(x, y, x_test, optimal_h_epanechnikov * 3, epanechnikov_kernel)
+plt.subplot(2, 2, 2)
 plt.scatter(x, y, color='blue', s = 6, label='Data')
-plt.plot(x_test, y_oversmooth_epanechnikov, color='red', label='Oversmoothed (h=optimal_h*4)')
+plt.plot(x_test, y_oversmooth_epanechnikov, color='red', label='Oversmoothed (h=optimal_h*3)')
 plt.title('Oversmoothed (Epanechnikov)')
 plt.legend()
 
 # Undersmoothed
-y_undersmooth_epanechnikov = nadaraya_watson_kernel_regression(x, y, x_test, optimal_h_epanechnikov / 4, epanechnikov_kernel)
-plt.subplot(2, 2, 2)
+y_undersmooth_epanechnikov = nadaraya_watson_kernel_regression(x, y, x_test, optimal_h_epanechnikov / 3, epanechnikov_kernel)
+plt.subplot(2, 2, 1)
 plt.scatter(x, y, color='blue', s = 6, label='Data')
-plt.plot(x_test, y_undersmooth_epanechnikov, color='green', label='Undersmoothed (h=optimal_h/4)')
+plt.plot(x_test, y_undersmooth_epanechnikov, color='green', label='Undersmoothed (h=optimal_h/3)')
 plt.title('Undersmoothed (Epanechnikov)')
 plt.legend()
 
@@ -148,6 +148,6 @@ plt.legend()
 
 # Save and show plots for Epanechnikov
 plt.tight_layout()
-plt.savefig('images/epanechnikov_kernel_regression.png')
+plt.savefig('images\4\epanechnikov_kernel_regression.png')
 
 # done
